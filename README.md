@@ -5,7 +5,6 @@ I’m a DevOps and Cloud Engineer who began my tech journey in the late 1990s. O
 
 ### Stats
 
-[LParker Github stats](https://github-readme-stats.vercel.app/api?username=dparker301&show_icons=true&theme=gruvbox)
-
+![Lparker's Github Stats](https://github-readme-stats.vercel.app/api?username=dparker301&show_icons=true&theme=gruvbox)
 
 #
